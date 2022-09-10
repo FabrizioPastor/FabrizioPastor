@@ -1,9 +1,9 @@
 <h2> ¡Hola, soy @FabrizioPastor! 🫡 <img src="https://tenor.com/bSw2K.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Enginner at <a href="http://www.unb.br">SEIDOR</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">SAP Business One</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: fabriziopastor](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/fabrizio-pastor-suarez/)](https://www.linkedin.com/in/fabrizio-pastor-suarez/)
+[![Linkedin: fabriziopastor](https://img.shields.io/badge/-fabriziopastor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/fabrizio-pastor-suarez/)](https://www.linkedin.com/in/fabrizio-pastor-suarez/)
 
 
 
